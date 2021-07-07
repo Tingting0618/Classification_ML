@@ -1,11 +1,9 @@
 # Classification_ML
 This repo will collect several algorithms related to the Machine Learning Classification topic.
 
-### 1. Strictly Binary classifiers
 - Logistic Regression 
-- Support Vector Machine classifiers
-
-### 2. Multiple classifier:
+- [Support Vector Machine classifiers](https://github.com/Tingting0618/SVM_Classifier)
+- [KNeighbors (KNN) classifier](https://github.com/Tingting0618/SVM_Classifier)
 - [Stochastic Gradient Descent (SGD) classifiers](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
 - [Random Forest classifiers](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
 - Naive Bayes classifiers
