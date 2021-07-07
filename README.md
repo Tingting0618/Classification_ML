@@ -6,8 +6,8 @@ This repo will collect several algorithms related to the Machine Learning Classi
 - Support Vector Machine classifiers
 
 ### 2. Multiple classifier:
-- [Stochastic Gradient Descent (SGD) classifiers](https://github.com/Tingting0618/SGD_Classifier_Classification)
-- [Random Forest classifiers](https://github.com/Tingting0618/SGD_Classifier_Classification)
+- [Stochastic Gradient Descent (SGD) classifiers](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
+- [Random Forest classifiers](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
 - Naive Bayes classifiers
 
 ## Learn More
