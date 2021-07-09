@@ -5,8 +5,8 @@ This repo will collect several algorithms related to the Machine Learning Classi
 - [KNeighbors (KNN) classifier](https://github.com/Tingting0618/SVM_Classifier)
 - [Stochastic Gradient Descent (SGD) classifiers](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
 - [Random Forest classifiers](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
+- [Logistic Regression](https://github.com/Tingting0618/Logistic_Regression)
 - Naive Bayes classifiers
-- Logistic Regression 
 
 ## Learn More
 
