@@ -7,6 +7,7 @@ This repo will collect several algorithms related to the Machine Learning Classi
 - [Random Forest classifiers](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
 - [Logistic Regression](https://github.com/Tingting0618/Logistic_Regression)
 - Naive Bayes classifiers
+- [Imbalanced Classification SMOTE](https://github.com/Tingting0618/Imbalanced_Classification_SMOTE)
 
 ## Learn More
 
