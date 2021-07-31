@@ -13,7 +13,7 @@ This repo will collect several algorithms related to the Machine Learning Classi
 - [Imbalanced Classification SMOTE](https://github.com/Tingting0618/Imbalanced_Classification_SMOTE)
 
 **Classifier Evaluations and Selection**
-- [Confusion Matrix (recall, precision, and F1 scores)](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
+- [Confusion Matrix (Recall, Precision, and F1 Scores)](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
 - [ROC and AUC](https://github.com/Tingting0618/SGD_RandomForest_Classifier)
 
 
